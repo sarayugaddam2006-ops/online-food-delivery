@@ -9,6 +9,7 @@
 <body>
     <header>
         <h1>🍔 Online Food Delivery</h1>
+        <h2>Food on time</h2>
         <p>Delicious food, delivered fast.</p>
     </header>
     <main class="center">
